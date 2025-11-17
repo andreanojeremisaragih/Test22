@@ -62,8 +62,7 @@ public class nested {
         } else {
             hasil = "Belum bisa memilih";
             System.out.println(hasil);
-        }     
-        
+        }
 
     }
 
